@@ -6,7 +6,7 @@ Software Development to me is solving one hundred different problems; one step a
 
 🎓 I am Cody Swithenbank, a **Fullstack Web Developer** (**React Applications** with **Express Servers**, **Postgres** databases on **Node.js**). I have completed Fullstack Academy of Code's Bootcamp and am ready to change the world!
 
-⌨️ In 2021, I began my journey into code, learning all the fundamentals of web development and building projects with teams. After the bootcamp I began my self-studying by learning **Next.js**, **GraphQL**, **D3.js**, **Vue.js**, **goLang** and **Blockchain development & DApps**.
+⌨️ In 2021, I began my journey into code, learning all the fundamentals of web development and building projects with teams, centered on full-stack JavaScript development, including Node.js, Express, Sequelize ORM for PostgreSQL databases, React and Redux; along with HTML & CSS, and CS fundamentals. After the bootcamp I began my self-studying by learning **Next.js**, **GraphQL**, **D3.js**, **Vue.js**, **goLang** and **Blockchain development & DApps**.
 
 🧘🏼‍♂️ Outside the tech world, I love to constantly learn and develop those rounding skills. My hobbies include (but not limited to) **Yoga**, **Digital Art**, **Painting**, **Gaming** and **Cooking**.
 
