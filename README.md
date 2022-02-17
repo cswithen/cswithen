@@ -16,6 +16,8 @@ Software Development to me is solving one hundred different problems; one step a
 
 ### Languages
 
+<!-- https://simpleicons.org/ -->
+
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![go](https://img.shields.io/badge/GoLang-3776AB?style=for-the-badge&logo=go&logoColor=white)
 
