@@ -30,6 +30,7 @@ Software Development to me is solving one hundred different problems; one step a
 ![vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![vue-router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![handlebars](https://img.shields.io/badge/Handlebars-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=FFFFFF)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![apollo](https://img.shields.io/badge/Apollo_GraphQL-000000?style=for-the-badge&logo=apollographql&logoColor=white)
@@ -41,6 +42,8 @@ Software Development to me is solving one hundred different problems; one step a
 ### Back-End Development
 
 ![postgres](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Koa](https://img.shields.io/badge/Koa-33333D?style=for-the-badge&logo=koa&logoColor=white)
 
 ### Block-Chain Development
 
