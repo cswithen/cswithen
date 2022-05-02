@@ -77,7 +77,7 @@ Software Development to me is solving one hundred different problems; one step a
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=cswithen&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=cswithen&show_icons=true&hide_border=true" alt="Cody Swithenbank's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=cswithen&show_icons=true&bg_color=30,D9593D,F2AF5C&title_color=fff&text_color=fff&hide_border=true&icon_color=fff" alt="Cody Swithenbank's GitHub Stats">
     <br />
 
 </div>
