@@ -4,9 +4,9 @@
 
 Software Development to me is solving one hundred different problems; one step at a time. And solving problems feeds my soul.
 
-🎓 I am Cody Swithenbank, a **Fullstack Web Developer** (**React Applications** with **Express Servers**, **Postgres** databases on **Node.js**). I have completed Fullstack Academy of Code's Bootcamp and am ready to change the world!
+🎓 I am Cody Swithenbank, a **Fullstack Web Developer** (**React Applications** with **Express Servers**, **Postgres** databases on **Node.js**). I have completed Fullstack Academy of Code's Bootcamp and am currently working as a Software Engineer!
 
-⌨️ In 2021, I began my journey into code, learning all the fundamentals of web development and building projects with teams, centered on full-stack JavaScript development, including Node.js, Express, Sequelize ORM for PostgreSQL databases, React and Redux; along with HTML & CSS, and CS fundamentals. After the bootcamp I began my self-studying by learning **Next.js**, **GraphQL**, **D3.js**, **Vue.js**, **goLang** and **Blockchain development & DApps**.
+⌨️ In 2021, I began my journey into code, learning all the fundamentals of web development and building projects with teams, centered on full-stack JavaScript development, including Node.js, Express, Sequelize ORM for PostgreSQL databases, React and Redux; along with HTML & CSS, and CS fundamentals. After the bootcamp I began my self-studying by learning **Next.js**, **GraphQL**, **D3.js**, **Vue.js**, **goLang** and **Blockchain development & DApps**. Inside of the industry I have worked on building **design systems**, creating logical **system architectures** working in a multi-project role as the **implementor** of various stakeholder ideas.
 
 🧘🏼‍♂️ Outside the tech world, I love to constantly learn and develop those rounding skills. My hobbies include (but not limited to) **Yoga**, **Digital Art**, **Painting**, **Gaming** and **Cooking**.
 
@@ -20,6 +20,8 @@ Software Development to me is solving one hundred different problems; one step a
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![go](https://img.shields.io/badge/GoLang-3776AB?style=for-the-badge&logo=go&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Front-End Development
 
@@ -34,8 +36,6 @@ Software Development to me is solving one hundred different problems; one step a
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![apollo](https://img.shields.io/badge/Apollo_GraphQL-000000?style=for-the-badge&logo=apollographql&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
